@@ -1,4 +1,4 @@
 #Hello World
-print("Blast here...")
+prin
 Tryin' to learn this Git thing...
 Cya in a bit !
